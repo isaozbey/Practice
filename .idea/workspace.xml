@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587760694139</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TEST">
+      <created>1587760832722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587760832722</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,10 +102,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="TEST" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1520" y="243" key="CommitChangelistDialog2" timestamp="1587760693968">
+    <state x="1520" y="243" key="CommitChangelistDialog2" timestamp="1587760832549">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
-    <state x="1520" y="243" key="CommitChangelistDialog2/2560.259.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1587760693968" />
+    <state x="1520" y="243" key="CommitChangelistDialog2/2560.259.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1587760832549" />
     <state width="1175" height="377" key="GridCell.Tab.0.bottom" timestamp="1587760531286">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
