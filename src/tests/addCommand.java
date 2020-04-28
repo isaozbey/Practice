@@ -8,6 +8,7 @@ public class addCommand {
         
         
         // Test 111111
+        System.out.println("Hello");
         
         // Happy Birthday
         
